@@ -1,0 +1,6 @@
+---
+description: Creation of python projects
+globs: 
+---
+
+- Use uv (https://docs.astral.sh/uv/) for managing python projects
